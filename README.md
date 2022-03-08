@@ -1,2 +1,2 @@
 # ubuntu-docker-react
-React-app running on AWS utilizin Travis CI
+React-app running on AWS utilizing Travis CI
